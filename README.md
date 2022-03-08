@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**Loyalsoldier/Loyalsoldier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Loyalsoldier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 [![Loyalsoldier's Github Stats](https://github-readme-stats.vercel.app/api?username=Loyalsoldier&count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -21,5 +20,5 @@ Here are some ideas to get you started:
 
 通过比特币激励我创作｜Buy me a coffee by BTC：
 
-- **比特币（BTC）bech32 地址**：bc1qfe4nxcanet4w4ph8pf6qqyf263y68vw26nv9j9
-- **比特币（BTC）地址**：3PRyneb1D7jFFBakAaJiCRSsxsXAtMr7LN
+- **比特币（BTC）bech32 地址**：
+- **比特币（BTC）地址**：
